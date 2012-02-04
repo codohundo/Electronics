@@ -1,0 +1,6 @@
+Warning[205] D:\PERSONAL\TIMER\TIMER.ASM 3 : Found directive in column 1. (__config)
+Warning[230] D:\PERSONAL\TIMER\TIMER.ASM 3 : __CONFIG has been deprecated for PIC18 devices.  Use directive CONFIG.
+Warning[205] D:\PERSONAL\TIMER\TIMER.ASM 4 : Found directive in column 1. (__config)
+Warning[230] D:\PERSONAL\TIMER\TIMER.ASM 4 : __CONFIG has been deprecated for PIC18 devices.  Use directive CONFIG.
+Warning[207] D:\PERSONAL\TIMER\TIMER.ASM 8 : Found label after column 1. (main)
+Warning[202] D:\PERSONAL\TIMER\TIMER.ASM 12 : Argument out of range.  Least significant bits used.
